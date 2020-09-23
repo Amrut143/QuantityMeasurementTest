@@ -2,13 +2,11 @@
 #include "Unit.h"
 
 class QuantityMeasurement {
-
 public:
     double value;
-    Unit unit;
+    Unit* unit;
 
-public:
-    QuantityMeasurement(Unit, double);
+    QuantityMeasurement(Unit*, double);
 
     bool operator==(QuantityMeasurement) const;
     bool operator==(QuantityMeasurement *) const;

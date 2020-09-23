@@ -1,5 +1,4 @@
 #pragma once
-#include "QuantityMeasurement.h"
 #include "TypesOfUnit.h"
 
 class Unit {
@@ -7,8 +6,8 @@ class Unit {
     double base_conversion_factor;
     TypesOfUnit types_of_unit;
 
-    Unit();
-    Unit(double base_conversion_factor, TypesOfUnit types_of_unit);
+    // Unit();
+    Unit(double, TypesOfUnit);
     
     public:
         static Unit INCH;
@@ -16,5 +15,5 @@ class Unit {
         static Unit YARD;
         static Unit CM;
 
-        double get_base_value(QuantityMeasurement quantity);
+        double get_base_value(double);
 }; 
