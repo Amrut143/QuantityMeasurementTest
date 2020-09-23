@@ -1,6 +1,8 @@
 #include "Unit.h"
 
-Unit::Unit(){}
+Unit::Unit() : base_conversion_factor(1), types_of_unit(LENGTH) {
+    
+}
 
 Unit::Unit(double base_conversion_factor, TypesOfUnit types_of_unit) {
     this->base_conversion_factor = base_conversion_factor;
