@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.18.2) 
+cmake_minimum_required(VERSION 3.17.3) 
 project(QuantityMeasurementTest) 
 add_subdirectory(lib/googletest) 
 include_directories(lib/googletest/include) 
