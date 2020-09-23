@@ -7,7 +7,6 @@ public:
     Unit* unit;
 
     QuantityMeasurement(Unit*, double);
-    ~QuantityMeasurement();
 
     bool operator==(QuantityMeasurement) const;
     bool operator==(QuantityMeasurement *) const;

@@ -19,11 +19,11 @@ TEST(QuantityMeasurementTest, _first_object_and_second_ref__should_be_equal) {
     ASSERT_EQ(first_ref, second_ref);
 }
 
-TEST(QuantityMeasurementTest, _first_ref_and_second_ref__should_be_equal) {
-    QuantityMeasurement *first_ref = new QuantityMeasurement(&Unit::FEET, 1);
-    QuantityMeasurement *second_ref = new QuantityMeasurement(&Unit::FEET, 2);
-    ASSERT_NE(first_ref, second_ref);
-}
+// TEST(QuantityMeasurementTest, _first_ref_and_second_ref__should_be_equal) {
+//     QuantityMeasurement *first_ref = new QuantityMeasurement(&Unit::FEET, 1);
+//     QuantityMeasurement *second_ref = new QuantityMeasurement(&Unit::FEET, 2);
+//     ASSERT_NE(first_ref, second_ref);
+// }
 
 TEST(QuantityMeasurementTest, _one_feet_and_twelve_inch__should_be_equal) {
     QuantityMeasurement feet_value(&Unit::FEET, 1);
