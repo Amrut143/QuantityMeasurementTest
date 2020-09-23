@@ -1,0 +1,7 @@
+/Users/admin/CPPPractice/Amrut/QuantityMeasurementTest/build/CMakeFiles/rebuild_cache.dir
+/Users/admin/CPPPractice/Amrut/QuantityMeasurementTest/build/CMakeFiles/edit_cache.dir
+/Users/admin/CPPPractice/Amrut/QuantityMeasurementTest/build/CMakeFiles/executeTests.dir
+/Users/admin/CPPPractice/Amrut/QuantityMeasurementTest/build/lib/googletest/CMakeFiles/rebuild_cache.dir
+/Users/admin/CPPPractice/Amrut/QuantityMeasurementTest/build/lib/googletest/CMakeFiles/edit_cache.dir
+/Users/admin/CPPPractice/Amrut/QuantityMeasurementTest/build/lib/googletest/CMakeFiles/gtest_main.dir
+/Users/admin/CPPPractice/Amrut/QuantityMeasurementTest/build/lib/googletest/CMakeFiles/gtest.dir

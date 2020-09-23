@@ -12,6 +12,6 @@ Unit Unit::FEET(12, TypesOfUnit::LENGTH);
 Unit Unit::YARD(36, TypesOfUnit::LENGTH);
 Unit Unit::CM(0.4, TypesOfUnit::LENGTH);
 
-double Unit::get_base_value(QuantityMeasurement quantity) {
-    return (quantity.unit.base_conversion_factor * quantity.value);
+double Unit::get_base_value(double value) {
+    return (base_conversion_factor * value);
 }

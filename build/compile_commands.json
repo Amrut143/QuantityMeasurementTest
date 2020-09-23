@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/Users/admin/CPPPractice/Amrut/QuantityMeasurementTest/build",
+  "command": "/usr/bin/clang++   -I/Users/admin/CPPPractice/Amrut/QuantityMeasurementTest/lib/googletest/include  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -o CMakeFiles/executeTests.dir/main/Unit.cpp.o -c /Users/admin/CPPPractice/Amrut/QuantityMeasurementTest/main/Unit.cpp",
+  "file": "/Users/admin/CPPPractice/Amrut/QuantityMeasurementTest/main/Unit.cpp"
+},
+{
+  "directory": "/Users/admin/CPPPractice/Amrut/QuantityMeasurementTest/build",
+  "command": "/usr/bin/clang++   -I/Users/admin/CPPPractice/Amrut/QuantityMeasurementTest/lib/googletest/include  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -o CMakeFiles/executeTests.dir/main/QuantityMeasurement.cpp.o -c /Users/admin/CPPPractice/Amrut/QuantityMeasurementTest/main/QuantityMeasurement.cpp",
+  "file": "/Users/admin/CPPPractice/Amrut/QuantityMeasurementTest/main/QuantityMeasurement.cpp"
+},
+{
+  "directory": "/Users/admin/CPPPractice/Amrut/QuantityMeasurementTest/build",
+  "command": "/usr/bin/clang++   -I/Users/admin/CPPPractice/Amrut/QuantityMeasurementTest/lib/googletest/include  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -o CMakeFiles/executeTests.dir/test/QuantityMeasurementTest.cpp.o -c /Users/admin/CPPPractice/Amrut/QuantityMeasurementTest/test/QuantityMeasurementTest.cpp",
+  "file": "/Users/admin/CPPPractice/Amrut/QuantityMeasurementTest/test/QuantityMeasurementTest.cpp"
+},
+{
+  "directory": "/Users/admin/CPPPractice/Amrut/QuantityMeasurementTest/build/lib/googletest",
+  "command": "/usr/bin/clang++   -I/Users/admin/CPPPractice/Amrut/QuantityMeasurementTest/lib/googletest/include -I/Users/admin/CPPPractice/Amrut/QuantityMeasurementTest/lib/googletest  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk     -DGTEST_HAS_PTHREAD=1   -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /Users/admin/CPPPractice/Amrut/QuantityMeasurementTest/lib/googletest/src/gtest_main.cc",
+  "file": "/Users/admin/CPPPractice/Amrut/QuantityMeasurementTest/lib/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/Users/admin/CPPPractice/Amrut/QuantityMeasurementTest/build/lib/googletest",
+  "command": "/usr/bin/clang++   -I/Users/admin/CPPPractice/Amrut/QuantityMeasurementTest/lib/googletest/include -I/Users/admin/CPPPractice/Amrut/QuantityMeasurementTest/lib/googletest  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk     -DGTEST_HAS_PTHREAD=1   -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /Users/admin/CPPPractice/Amrut/QuantityMeasurementTest/lib/googletest/src/gtest-all.cc",
+  "file": "/Users/admin/CPPPractice/Amrut/QuantityMeasurementTest/lib/googletest/src/gtest-all.cc"
+}
+]
